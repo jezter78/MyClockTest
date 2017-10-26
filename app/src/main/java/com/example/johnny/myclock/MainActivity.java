@@ -53,13 +53,13 @@ public class MainActivity extends AppCompatActivity {
             }
         }.start();
 
-        /*
+
         //animate the clock
         clockHandImage.animate()
                 .rotation(360)
                 .setDuration(60000)
                 .start();
-                */
+
 
     }
 }
